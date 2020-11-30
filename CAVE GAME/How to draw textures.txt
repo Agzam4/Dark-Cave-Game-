@@ -1,0 +1,9 @@
+[РУС]
+В папке "textures" находятся основные текстуры (ARGB), на которые действует свет
+
+В папке "textures\up" находятся текстуры (ARGB), на которые НЕ действует свет. Они создаю эффект неонового свечения. Если вы не хотите это эффекта, просто удалите текстуру
+
+[ENG]
+The "textures" folder contains the main textures (ARGB) that are affected by light
+
+the "textures\up" folder contains textures (ARGB) that are NOT affected by light. They create a neon glow effect. If you don't want this effect, just delete the texture
