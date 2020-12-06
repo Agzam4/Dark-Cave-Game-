@@ -4,7 +4,16 @@
 
 ###  [ENG]
 ##### Dark cave is a game where you have to explore caves in search of treasure
+### Control
+**Move** - Arrows
+**TP to Start** - R
+**Full Screen MiniMap** - M
+**Back to Menu** - Esc
 
 ### [РУС]
 ##### Dark cave - это игра, в которой вам предстоит исследовать пещеры в поисках сокровищ
-
+### Управление
+**Движение** - Стрелки
+**Телепорт на старт** - R
+**Миникарта во весь экран** - M
+**Вернутся в меню** - Esc
